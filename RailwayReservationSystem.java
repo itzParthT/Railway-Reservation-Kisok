@@ -26,7 +26,6 @@ public class RailwayReservationSystem {
         System.out.println("\t\t                                              ");
         System.out.println("\t\t         Presented by:-                       ");
         System.out.println("\t\t              Parth Tagadpallewar             ");
-        System.out.println("\t\t              Rohit Rathod                    ");
         System.out.println("\t\t                                              ");
         System.out.println("\t\t===============================================");
 
