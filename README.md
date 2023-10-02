@@ -5,4 +5,4 @@ Railway Reservation System Demostration
 A menu-driven railway reservation system designed to simplify ticket booking. Passengers can reserve seats, view train details, and check fares with ease, ensuring a seamless and user-friendly booking experience.
 
 
-Java + MySql  based simple project
+Java + MySql  based simple project.
